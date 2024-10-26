@@ -1,5 +1,6 @@
 # Getting Started
 - Configure the backend server
+- Install dependencies `npm i`
 
 Add 
 ```
