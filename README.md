@@ -19,3 +19,6 @@ EMAIL_PASSWORD=_EMAIL_PASS_
 to `.env` file in root folder
 
 Then start the server by `npm run start`
+
+
+Have a look at [Postman Collection](https://res.cloudinary.com/dnoszukak/raw/upload/v1729947942/qdodgjzhc6qq95cwueik.json), for better understanding
